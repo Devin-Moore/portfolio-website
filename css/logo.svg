@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7198092"
+     inkscape:cx="396.85039"
+     inkscape:cy="561.25984"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot22"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion24"><rect
+           id="rect26"
+           width="574.28571"
+           height="957.14288"
+           x="100"
+           y="82.519684" /></flowRegion><flowPara
+         id="flowPara28"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot30"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1;font-family:SWMap;-inkscape-font-specification:SWMap;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(2.4401516,0,0,3.789831,-195.69717,-634.40946)"><flowRegion
+         id="flowRegion32"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1;font-family:SWMap;-inkscape-font-specification:SWMap"><rect
+           id="rect34"
+           width="708.57141"
+           height="1002.8571"
+           x="82.85714"
+           y="122.51968"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1;font-family:SWMap;-inkscape-font-specification:SWMap" /></flowRegion><flowPara
+         id="flowPara36">DM</flowPara></flowRoot>    <path
+       style="fill:#008000;stroke-width:1.38925707"
+       d="M 226.52034,1018.4643 C 225.95519,1016.9362 186.49762,914.40898 138.83684,790.62618 91.176052,666.84338 52.096344,564.62879 51.993037,563.48265 51.807953,561.42923 225.51821,109.46019 227.25191,107.48436 c 1.29631,-1.47737 178.32898,454.38299 177.53209,457.14638 -1.17527,4.07551 -174.6905,452.07906 -175.98988,454.39286 -1.09226,1.9451 -1.37318,1.876 -2.27378,-0.5593 z"
+       id="path38"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#008080;stroke-width:1.38925707"
+       d="m 593.01504,908.2913 c -6.3991,-7.01206 -6.72146,-7.87143 -93.74164,-249.9004 -53.37944,-148.46406 -87.62535,-245.64271 -88.10484,-250.01263 -1.25121,-11.40314 3.58647,-25.33149 11.04538,-31.80118 l 5.89474,-5.11297 176.36515,0.99452 c 196.47354,1.1079 180.22569,0.12771 185.42375,11.18612 2.26882,4.82672 2.89107,8.88228 2.89107,18.843 v 12.69252 l -86.23972,241.20934 c -47.43183,132.66514 -87.7294,243.77761 -89.55013,246.91661 -3.55937,6.13642 -7.86261,9.58679 -13.82188,11.08248 -3.24625,0.81476 -4.58944,0.008 -10.16188,-6.09741 z"
+       id="path40"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke-width:1.38925707"
+       d="M 225.45311,1013.6366 C 221.21253,1003.0383 90.974342,664.31096 71.751515,613.88487 L 52.569537,563.56594 66.885222,525.66705 C 93.27633,455.80005 201.41987,174.68338 222.68966,120.65697 c 2.18092,-5.53966 4.33804,-10.07211 4.79359,-10.07211 1.67661,0 156.62064,397.51628 172.81878,443.37481 l 3.75163,10.62125 -10.01559,26.19406 c -26.33869,68.88427 -165.31324,427.33592 -165.97557,428.09432 -0.19451,0.2227 -1.36872,-2.132 -2.60939,-5.2327 z"
+       id="path42"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#008080;stroke-width:1.38925707"
+       d="m 223.33545,1124.4083 c -9.30935,-4.89 -10.5439,-7.8852 -116.85828,-283.51584 L 3.6906525,574.40812 V 563.3088 552.20947 L 108.48992,281.15295 C 223.64847,-16.697166 215.85519,1.5281827 228.05922,1.5281827 c 13.04969,0 4.3749,-20.2245387 120.83863,281.7246573 102.1825,264.92302 104.91208,272.24684 104.91208,281.49254 0,9.23379 -2.3149,15.47476 -84.87657,228.8273 -46.68211,120.63405 -93.56928,241.84062 -104.19371,269.34792 -10.62443,27.5072 -20.45006,51.5375 -21.83475,53.4005 -5.6908,7.6567 -13.91707,11.0562 -19.56945,8.0872 z M 318.40388,792.12345 C 400.68528,579.2392 406.85035,562.70109 405.40862,558.72827 400.15671,544.2562 228.78311,104.59757 228.14541,103.95986 c -0.43141,-0.4314 -0.98102,-0.52388 -1.22138,-0.20551 -1.60508,2.12613 -176.49936,458.06164 -176.347556,459.72409 0.178957,1.9598 174.846646,456.41926 176.384896,458.92736 0.3923,0.6397 1.20216,0.6397 1.79968,0 0.59753,-0.6396 40.9368,-104.26668 89.64283,-230.28235 z"
+       id="path44"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
